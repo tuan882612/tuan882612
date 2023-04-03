@@ -1,4 +1,4 @@
-### Helloo, my name is Tuan! I enjoy developing Full Stack apps along with distributed and monolithic backends! :)
+### Helloo, my name is Tuan and I go to the University of Texas at Arlington! I enjoy developing Full Stack apps along with distributed and monolithic backends! :)
 > *p.s. Go, Python and Elixir are the best languages >:3*
 
 # 💻 Tech Stack:
