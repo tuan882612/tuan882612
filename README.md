@@ -25,7 +25,3 @@ Experienced in designing scalable distributed systems, securing APIs, and automa
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuan882612&theme=tokyonight&hide_border=false)<br/>
-
----
-
-This condensed expertise section provides a quick overview of your skills without going into too much detail. Let me know if you'd like any further adjustments!
