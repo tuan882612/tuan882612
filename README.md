@@ -1,7 +1,6 @@
 ## Hello, my name is Tuan 🫡
 
-I go to the University of Texas at Arlington! I enjoy solving problems and designing software/cloud architectures! :)
-> *p.s. Go and Python are the best languages >:3*
+I enjoy solving problems and designing software/cloud architectures! :)
 
 ## 💼 Expertise
 
